@@ -1,11 +1,7 @@
 body {
     background: rgb(65, 50, 24);
-    background-image: url("fundo.jpg");
+    background-image: url("capa.jpg");
     font: normal 15pt Arial;
-}
-
-#res {
-    text-align: center;
 }
 
 #botao {
